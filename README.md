@@ -5,7 +5,7 @@
   <title>Example web page</title> <!-- Title of the tab in the browser -->
  </head>
  <body> <!-- this section contains what will show p on the web page -->
-   <h1 style="color:Tomato;">Hello World</h1>
+   <h1 style="color:Violet;">Drawing</h1>
    <p>
      Welcome to my web page.  This
      web page is a demonstration of
