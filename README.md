@@ -7,8 +7,7 @@
    <h1 style="color:Violet;">Drawing</h1>
    <p>
      Welcome to my web page.  This
-     web page is a demonstration of
-     HTML.
+     web page is about drawing.
    </p>
  </body>
 </html>
