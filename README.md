@@ -1,4 +1,3 @@
-# Drawing
 <!DOCTYPE html>
 <html> <!-- start and end with this tag -->
  <head> <!-- head section has information about the web page that doesnt get displayed -->
