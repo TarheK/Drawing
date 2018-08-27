@@ -7,6 +7,7 @@
   <h2>Links</h2>
 <p><a href="http://rapidfireart.com/free-drawing-tutorials/"> Drawing tutorials </a></p>
    <p>
+    <img src="pexels-photo-820673.jpg" alt="Person Drawing">
      Welcome to my web page.  This
      web page is about drawing.
    </p>
