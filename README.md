@@ -5,7 +5,7 @@
  </head>
  <body>
   <h2>Links</h2>
-<p><a href="">Visit our HTML tutorial</a></p>
+<p><a href="http://rapidfireart.com/free-drawing-tutorials/"> Drawing tutorials </a></p>
    <p>
      Welcome to my web page.  This
      web page is about drawing.
