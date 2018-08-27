@@ -11,6 +11,6 @@
      web page is about drawing.
    </p>
   <h1 style="color:Violet;">Drawing</h1>
-  <a href="https://www.w3schools.com/html/">Visit our HTML tutorial</a>
+  <a href="">Visit our HTML tutorial</a>
  </body>
 </html>
