@@ -1,0 +1,11 @@
+p {
+  font-size: 200%;
+  color: blue;
+  font-family: verdana;
+  border: 5px solid purple;
+  margin: 50px;
+}
+
+body {
+     background-color: lightpink;
+}
