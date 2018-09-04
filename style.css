@@ -2,10 +2,6 @@ p {
   font-size: 200%;
   color: blue;
   font-family: verdana;
-  border: 5px solid purple;
-  width: 55%;
-  length: 25%;
-  margin: 20px;
 }
 
 body {
